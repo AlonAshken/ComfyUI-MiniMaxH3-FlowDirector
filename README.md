@@ -25,6 +25,10 @@
 5. **Integrated Audio & Motion Tracks**:
    - Full timeline audio waveforms with automatic trimming, stereo mixing, and native MiniMax audio decoding.
 
+*You can chain workflows by having just text, image to text and then just more text prompts, or controlling director parts with more images that will be used as "last-frame" for previous chunks to lead to, which I think is the best way to do it.
+
+Optimal video length is 5-10 seconds for each chunk (and you can chain however many you want, leading up to multiple-minute seamless videos).
+
 ---
 
 ## 📦 Installation
