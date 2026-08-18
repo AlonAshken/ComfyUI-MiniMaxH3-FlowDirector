@@ -1,0 +1,10 @@
+__pycache__/
+*.py[cod]
+*$py.class
+.vscode/
+.idea/
+test_*.py
+verify_workflow.py
+create_flow_workflow.py
+build_js.py
+*.log

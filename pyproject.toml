@@ -1,0 +1,14 @@
+[project]
+name = "comfyui-minimaxh3-flowdirector"
+description = "WYSIWYG visual timeline director for MiniMax H3. Generates continuous ultra-long videos block-by-block with automated keyframe flow chaining and low, constant VRAM usage."
+version = "1.0.0"
+license = { text = "MIT" }
+dependencies = ["torch", "numpy", "pillow", "av"]
+
+[project.urls]
+Repository = "https://github.com/YOUR_GITHUB_USERNAME/ComfyUI-MiniMaxH3-FlowDirector"
+
+[tool.comfy]
+PublisherId = "YOUR_COMFY_PUBLISHER_ID"
+DisplayName = "ComfyUI-MiniMaxH3-FlowDirector"
+Icon = ""
