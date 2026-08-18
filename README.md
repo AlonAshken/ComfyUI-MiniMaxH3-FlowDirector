@@ -34,7 +34,7 @@ Open your terminal in `ComfyUI/custom_nodes/` and run:
 
 ```bash
 cd custom_nodes
-git clone https://github.com/YOUR_GITHUB_USERNAME/ComfyUI-MiniMaxH3-FlowDirector.git
+git clone https://github.com/AlonAshken/ComfyUI-MiniMaxH3-FlowDirector.git
 ```
 
 ### Method 2: Via ComfyUI Manager
